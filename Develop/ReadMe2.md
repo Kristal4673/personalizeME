@@ -1,6 +1,6 @@
-# jdjd 
+# jsjs 
 ##Description
-jdjddjdj jdjd jdj 
+jsjsjsjs jsjs jsjs 
 ## Table of Contents:
 * [Installation](#installation)
 * [Usage](#License)
@@ -9,10 +9,10 @@ jdjddjdj jdjd jdj
 * [Questions](#questions)
 ### Installation:
 In order to install the necessary dependencies, open the console and run thr following:
-jdjd
+jsjs
 ### Usage:
 Provide instructions and examples for use. Include screenshots as needed.
-djd
+jsjsj
 ### License:
 This project is Licensed under:
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -25,10 +25,10 @@ In order to test open the console and run the following:
 undefined
 ### Credits
 List your collaborators, if any, with links to their GitHub profiles.
-jdj
+jsjs
 ### Author
 The author name is
-jdjd
+jsjs
 ### Questions:
 If you have any questions contact me on [GitHub](https://github.com/undefined) or contact
-jdjd at jdjd
+jsjs at jsjs

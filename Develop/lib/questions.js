@@ -72,9 +72,9 @@ inquirer
       choices: [
         "MIT License i",
         "GNU GPLv3 ",
-        "usage information",
-        "Mozilla Public License 2.0",
-        " Apache License 2.0",
+        "GPL license",
+        " GPL",
+        "Apache License 2.0",
       ],
       type: "list",
     },
